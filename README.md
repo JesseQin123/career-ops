@@ -1,3 +1,9 @@
+> **Note from Jesse Qin:** This is a personal fork I keep for my own reference/use — I have not made any code contributions here. Full credit and all engineering work belongs to the original project below.
+>
+> **Original project:** https://github.com/santifer/career-ops
+>
+> ---
+
 # Career-Ops
 
 [English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [简体中文](README.cn.md) | [繁體中文](README.zh-TW.md) | [Українська](README.ua.md) | [Русский](README.ru.md) | [Polski](README.pl.md) | [Dansk](README.da.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md)
